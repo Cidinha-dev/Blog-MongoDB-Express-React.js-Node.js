@@ -24,7 +24,7 @@
 .topIcons{
     font-size:25px;
     margin-right:10px;
-    color:#444;
+    color:#666;
     cursor: pointer;
 }
 .topImg{
@@ -43,8 +43,9 @@
 .topListItem{
     margin-right:20px;
     font-size:18px;
-    font-weight:350;
+    font-weight:450;
     cursor:ponter;
+    color:#444;
 }
 .topSearchIcon{
     font-size:18px;

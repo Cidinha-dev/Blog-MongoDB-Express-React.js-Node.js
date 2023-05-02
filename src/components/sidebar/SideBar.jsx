@@ -15,11 +15,11 @@ export default function SideBar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
-          <li className="sidebarListItem">MÚSICA</li>
-          <li className="sidebarListItem">TEATRO</li>
-          <li className="sidebarListItem">CINEMA</li>
-          <li className="sidebarListItem">FILMES</li>
-          <li className="sidebarListItem">SÉRIES</li>
+          <li className="sidebarListItem">MODA</li>
+          <li className="sidebarListItem">ROUPAS</li>
+          <li className="sidebarListItem">CALÇADOS</li>
+          <li className="sidebarListItem">ESTAÇÕES</li>
+          <li className="sidebarListItem"></li>
         </ul>
       </div>
 
@@ -33,6 +33,6 @@ export default function SideBar() {
         </div>
       </div>
 
-    </div>
+    </div> 
   )
 }

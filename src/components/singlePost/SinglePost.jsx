@@ -17,7 +17,7 @@ export default function SinglePost() {
             </h1>
             <div className="singlePostInfo">
                 <span className="singlePostAuthor">Aparecida Bruna</span>
-                <span className="singlePostDate">1 hour ago</span>
+                <span classNane="singlePostDate">1 hour ago</span>
             </div>
             <p className="singlePostDesc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, eaque. Dolores, expedita incidunt optio error harum iure quo molestiae nihil corporis impedit sint fuga adipisicing elit. Animi, eaque. Dolores, expedita incidunt optio error harum iure quo molestiae nihil corporis impedit sint fuga veniam accusantium blanditiis rem, quos quia.Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, eaque. Dolores, expedita incidunt optio error harum iure quo molestiae nihil corporis impedit sint fuga veniam accusantium blanditiis rem, quos quia.Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, eaque. Dolores, expedita incidunt optio error harum iure quo molestiae nihil corporis impedit sint fuga veniam accusantium blanditiis rem, quos quia.
             veniam accusantium blanditiis rem, quos quia.

@@ -3,6 +3,7 @@ import "./write.css"
 export default function Write() {
   return (
     <div className="write">
+        <img src="https://images.pexels.com/photos/5717972/pexels-photo-5717972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className="writeImg" />
         <form className="writeForm">
             <div className="writeFormGroup">
 

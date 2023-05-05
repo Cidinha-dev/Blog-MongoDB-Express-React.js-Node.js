@@ -19,17 +19,17 @@
     flex: 6;
     display:flex;
     align-items:center;
-    justify-content:center;
+    justify-content:certer;
 }
 .topIcons{
-    font-size:25px;
+    font-size:30px;
     margin-right:10px;
     color:#666;
-    cursor: pointer;
+    cursor:center;
 }
 .topImg{
-    width:40px;
-    height:40px;
+    width:45px;
+    height:45px;
     border-radius:50%;
     object-fit:cover;
 }
@@ -37,7 +37,7 @@
     display:flex;
     justify-content:center;
     margin:0px;
-    padding:0;
+    padding:0px;
     list-style:none;
 }
 .topListItem{

@@ -1,6 +1,13 @@
 .write{
     padding-top:50px;
 }
+.writeImg{
+    margin-left:150px;
+    width:70vw;
+    height:250px;
+    border-radius:10px;
+    object-fit:cover;
+}
 .writeForm{
    position:relative;
 }
@@ -33,9 +40,19 @@
 .writeInput:focus{
     outline:none;
 }
+.writeText{
+    font-size:20px;
+    height:100vw;
+}
 .writeSubmit{
     position:absolute;
     top:20px;
     right:50px;
+    color:white;
+    background-color:teal;
+    padding:none;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:16px;
     
 }

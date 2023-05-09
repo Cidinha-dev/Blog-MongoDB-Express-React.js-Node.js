@@ -1,6 +1,6 @@
 import Header from "../../components/header/Header"
 import Posts from "../../components/posts/Posts"
-// import SideBar from "../../components/sidebar/SideBar"
+import SideBar from "../../components/sidebar/SideBar"
 import "./home.css"
 
 export default function Home() {
@@ -8,7 +8,8 @@ export default function Home() {
     <>
       <Header />
       <div className="home">  
-      <Posts /> 
+        <Posts /> 
+        <SideBar />
       </div>
     </>
   )

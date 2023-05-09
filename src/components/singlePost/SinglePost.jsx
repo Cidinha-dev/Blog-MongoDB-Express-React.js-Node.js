@@ -4,12 +4,12 @@ export default function SinglePost() {
   return (
     <div className="singlePost">
         <div className="singlePostWrapper">
-            <img src="https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" 
+            <img src="https://images.pexels.com/photos/7101486/pexels-photo-7101486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
             alt="" 
             className="singlePostImg" />
 
             <h1 className="singlePostTitle">
-                Lorem, ipsum dolor sit amet 
+                Crimes que nunca foram resolvidos    
                 <div className="singlePostEdit">
                     <i class="singlePostIcon fa-regular fa-pen-to-square"></i>
                     <i class=" singlePostIcon fa-regular fa-trash-can"></i>

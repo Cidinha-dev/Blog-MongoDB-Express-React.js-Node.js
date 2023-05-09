@@ -1,3 +1,4 @@
+
 import "./write.css"
 
 export default function Write() {
@@ -22,5 +23,6 @@ export default function Write() {
             <div className="writeSubmit">Publicar</div>
         </form>
     </div>
+
   )
 }

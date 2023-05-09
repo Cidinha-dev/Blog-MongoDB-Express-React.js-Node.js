@@ -2,7 +2,7 @@
     flex:9;
 }
 .singlePostWrapper{
-    padding:25px;
+    padding:2rem;
     padding-right:0;
 
 }
@@ -14,8 +14,10 @@
 }
 .singlePostTitle{
     text-align:center; 
-    margin:10px;
-    font-family: 'Lora', serif;
+    margin:1rem;
+    color:#222;
+    padding:2rem;
+    font-family: 'Varela', sans-serif;
     font-size:28px;
 }
 .singlePostEdit{
@@ -30,20 +32,21 @@
     color:teal;
 }
 .singlePostIcon:last-child{
-    color:tomate;
+    color:red;
 }
 .singlePostInfo{
-    margin-bottom:20px;
+    margin-bottom:2rem;
     display:flex;
     justify-content:space-between;
     font-size:18px;
-    color:#b39656;
+    color:#444;
     font-family: 'Varela Round', sans-serif;
 }
 .singlePostDesc{
-    color:#666;
+    color:#333;
     font-size:18px;
     line-height:25px;
+    padding:1rem;
 }
 .singlePostDesc::first-letter{
     margin-left:20px;
